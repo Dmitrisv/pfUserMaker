@@ -11,4 +11,4 @@ use
 
 ```python main.py```
 
-and type on input full name employe like: ```Болванов Болван Болванович```
+and type on input full name employee like: ```Болванов Болван Болванович```
